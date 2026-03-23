@@ -1,4 +1,5 @@
 ---
+version: 1.0.0
 name: kotlin-coroutines-flows
 description: Kotlin Coroutines and Flow patterns for Android and KMP — structured concurrency, Flow operators, StateFlow, error handling, and testing.
 origin: ECC

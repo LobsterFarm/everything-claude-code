@@ -1,4 +1,5 @@
 ---
+version: 1.0.0
 name: autonomous-loops
 description: "Patterns and architectures for autonomous Claude Code loops — from simple sequential pipelines to RFC-driven multi-agent DAG systems."
 origin: ECC

@@ -1,4 +1,5 @@
 ---
+version: 1.0.0
 name: postgres-patterns
 description: PostgreSQL database patterns for query optimization, schema design, indexing, and security. Based on Supabase best practices.
 origin: ECC

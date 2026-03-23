@@ -1,4 +1,5 @@
 ---
+version: 1.0.0
 name: jpa-patterns
 description: JPA/Hibernate patterns for entity design, relationships, query optimization, transactions, auditing, indexing, pagination, and pooling in Spring Boot.
 origin: ECC

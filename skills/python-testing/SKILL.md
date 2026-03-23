@@ -1,4 +1,5 @@
 ---
+version: 1.0.0
 name: python-testing
 description: Python testing strategies using pytest, TDD methodology, fixtures, mocking, parametrization, and coverage requirements.
 origin: ECC

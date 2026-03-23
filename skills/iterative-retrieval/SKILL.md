@@ -1,4 +1,5 @@
 ---
+version: 1.0.0
 name: iterative-retrieval
 description: Pattern for progressively refining context retrieval to solve the subagent context problem
 origin: ECC

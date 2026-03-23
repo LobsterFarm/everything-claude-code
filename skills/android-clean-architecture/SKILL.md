@@ -1,4 +1,5 @@
 ---
+version: 1.0.0
 name: android-clean-architecture
 description: Clean Architecture patterns for Android and Kotlin Multiplatform projects — module structure, dependency rules, UseCases, Repositories, and data layer patterns.
 origin: ECC

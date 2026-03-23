@@ -1,4 +1,5 @@
 ---
+version: 1.0.0
 name: strategic-compact
 description: Suggests manual context compaction at logical intervals to preserve context through task phases rather than arbitrary auto-compaction.
 origin: ECC

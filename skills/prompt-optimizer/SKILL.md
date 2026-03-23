@@ -1,4 +1,5 @@
 ---
+version: 1.0.0
 name: prompt-optimizer
 description: >-
   Analyze raw prompts, identify intent and gaps, match ECC components

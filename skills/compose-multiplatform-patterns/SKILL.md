@@ -1,4 +1,5 @@
 ---
+version: 1.0.0
 name: compose-multiplatform-patterns
 description: Compose Multiplatform and Jetpack Compose patterns for KMP projects — state management, navigation, theming, performance, and platform-specific UI.
 origin: ECC

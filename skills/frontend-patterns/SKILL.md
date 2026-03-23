@@ -1,4 +1,5 @@
 ---
+version: 1.0.0
 name: frontend-patterns
 description: Frontend development patterns for React, Next.js, state management, performance optimization, and UI best practices.
 origin: ECC

@@ -1,4 +1,5 @@
 ---
+version: 1.0.0
 name: blueprint
 description: >-
   Turn a one-line objective into a step-by-step construction plan for
